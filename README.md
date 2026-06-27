@@ -1,4 +1,4 @@
-# grupi6-master-webapp
+# master-webapp
 
 AWS High-Availability & Secure Infrastructure Project
 - Technologies used: AWS (VPC, EC2, ALB, ASG, NAT Gateway), Git, Apache (httpd), Networking (TCP/IP, Subnetting).
